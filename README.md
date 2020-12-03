@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently working on new projects and learning a lot of MERN, Django, and a combination between Laravel + React js
 <!--
 **Sebastian-Urbano/Sebastian-Urbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
