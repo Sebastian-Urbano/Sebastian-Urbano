@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm currently working on new projects and learning a lot of MERN, Django, and a combination between Laravel + React js
+I love to work with Ubuntu Server.
+I have a notebook with Ubuntu 20.04, I don't like so much Windows, I prefer Linux and Mac
 <!--
 **Sebastian-Urbano/Sebastian-Urbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
